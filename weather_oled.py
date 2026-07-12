@@ -1,3 +1,4 @@
+import GPIO.RPi as GPIO
 import time
 import math
 from collections import deque
